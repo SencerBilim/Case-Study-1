@@ -31,7 +31,7 @@ const Hero = () => {
              <div className="relative w-[500px] sm:w-[400px] md:w-[400px] lg:w-[500px] aspect-square">
                <div className="absolute inset-0 z-0 w-[80%] h-[80%] bg-yellow-500 rounded-[50px] m-auto" />
                <img
-                 src="src/assets/images/Hero-img.png"
+                 src="/images/Hero-img.png"
                  alt="Collectible Sneakers"
                  className="absolute inset-0 w-full h-full object-contain z-10"
                />
@@ -43,9 +43,9 @@ const Hero = () => {
        <div className="flex justify-center  sm:justify-start">
          <div className="grid md:px-11 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 pt-20 pb-14 px-6 text-center sm:text-left">
            <div className="flex flex-col items-center sm:items-start relative p-6 max-w-[500px]">
-             <img src="src/assets/images/Rectangle1.png" className="absolute top-0 left-1/2 transform -translate-x-1/2 sm:translate-x-0 sm:left-10 w-11 h-11" />
+             <img src="/images/Rectangle1.png" className="absolute top-0 left-1/2 transform -translate-x-1/2 sm:translate-x-0 sm:left-10 w-11 h-11" />
              <div className="w-12 h-12 mb-4 relative z-10">
-               <img src="src/assets/images/trophy.png" alt="Feature Icon" className="w-full h-full scale-105" />
+               <img src="/images/trophy.png" alt="Feature Icon" className="w-full h-full scale-105" />
              </div>
              <h3 className="text-xl font-medium text-dark-blue mb-2">Nibh viverra</h3>
              <p className="text-dark-blue">
@@ -54,9 +54,9 @@ const Hero = () => {
            </div>
 
            <div className="flex flex-col items-center sm:items-start relative p-6 max-w-[500px]">
-             <img src="src/assets/images/Rectangle.png" className="absolute top-0 left-1/2 transform -translate-x-1/2 sm:translate-x-0 sm:left-10 w-11 h-11" />
+             <img src="/images/Rectangle.png" className="absolute top-0 left-1/2 transform -translate-x-1/2 sm:translate-x-0 sm:left-10 w-11 h-11" />
              <div className="w-12 h-12 mb-4 relative z-10">
-               <img src="src/assets/images/Icon.png" alt="Feature Icon" className="w-full h-full scale-105" />
+               <img src="/images/Icon.png" alt="Feature Icon" className="w-full h-full scale-105" />
              </div>
              <h3 className="text-xl font-medium text-dark-blue mb-2">Cursus amet</h3>
              <p className="text-dark-blue">
@@ -67,7 +67,7 @@ const Hero = () => {
            <div className="flex flex-col items-center sm:items-start relative p-6 max-w-[500px]">
              <div className="absolute top-2 left-1/2 transform -translate-x-1/2 sm:translate-x-0 sm:left-10 w-11 h-11 bg-[#A21CAF] opacity-50 rounded-full rotate-45"></div>
              <div className="w-12 h-12 mb-4 relative z-10">
-               <img src="src/assets/images/tv.png" alt="Feature Icon" className="w-full h-full scale-105" />
+               <img src="/images/tv.png" alt="Feature Icon" className="w-full h-full scale-105" />
              </div>
              <h3 className="text-xl font-medium text-dark-blue mb-2">Ipsum fermentum</h3>
              <p className="text-dark-blue">

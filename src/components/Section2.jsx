@@ -22,7 +22,7 @@ const Section2 = () => {
       <div className="bg-[#0F172A] rounded-xl overflow-hidden border border-gray-800 relative shadow-xl shadow-white/20 transition-all duration-300 hover:-translate-y-5 hover:scale-105 hover:shadow-2xl hover:shadow-indigo-300/20 ">
         <div className="absolute -left-10 -top-10 w-40 h-40 bg-pink-500/20 rounded-full"/>
         <img 
-          src="src\assets\images\Picture.png" 
+          src="/images/Picture.png" 
           alt="sneaker" 
           className="w-full h-64 object-cover rounded-t-lg"
         />
@@ -43,7 +43,7 @@ const Section2 = () => {
       <div className="bg-[#0F172A] rounded-xl overflow-hidden border border-gray-800 relative shadow-xl shadow-white/20 transition-all duration-300 hover:-translate-y-5 hover:scale-105 hover:shadow-2xl hover:shadow-indigo-300/20 ">
         <div className="absolute -right-10 -top-10 w-40 h-40 bg-blue-500/20 rounded-full"/>
         <img 
-          src="src\assets\images\Picture1.png" 
+          src="/images/Picture1.png" 
           alt="sneaker" 
           className="w-full h-64 object-cover rounded-t-lg"
         />
@@ -60,7 +60,7 @@ const Section2 = () => {
       {/* Card 3 */}
       <div className="bg-[#0F172A] rounded-xl overflow-hidden border border-gray-800 relative shadow-xl shadow-white/20 transition-all duration-300 hover:-translate-y-5 hover:scale-105 hover:shadow-2xl hover:shadow-indigo-300/20 ">
         <img 
-          src="src\assets\images\Picture2.png" 
+          src="/images/Picture2.png" 
           alt="sneaker" 
           className="w-full h-64 object-cover rounded-t-lg"
         />

@@ -50,7 +50,7 @@ const Collections = () => {
   {/* Base image */}
   <div className="rounded-xl overflow-hidden">
     <img
-      src="src/assets/images/Desktop1.png"
+      src="/images/Desktop1.png"
       alt="Back Image"
       className="w-full h-auto md:w-[759px] md:h-[451px] object-cover"
     />
@@ -59,7 +59,7 @@ const Collections = () => {
   {/* Middle image */}
   <div className="absolute top-[20%] left-[15%] md:top-20 md:left-28 rounded-xl overflow-hidden w-[90%] md:w-auto">
     <img
-      src="src/assets/images/Desktop2.png"
+      src="/images/Desktop2.png"
       alt="Front Image"
       className="w-full h-auto md:w-[759px] md:h-[451px] object-cover"
     />
@@ -68,7 +68,7 @@ const Collections = () => {
   {/* Small right image */}
   <div className="absolute -right-5 bottom-[-10%] md:-right-20 md:top-44 rounded-xl overflow-hidden w-[40%] md:w-auto">
     <img
-      src="src/assets/images/desktop3.png"
+      src="/images/desktop3.png"
       alt="Front Image"
       className="w-full h-auto md:w-[256px] md:h-[286px] object-cover"
     />
@@ -82,21 +82,21 @@ const Collections = () => {
 
       <div className='absolute bottom-0 left-0 w-full overflow-hidden'>
    <img 
-       src="src/assets/images/Vector1.png" 
+       src="/images/Vector1.png" 
        className='w-full h-auto object-contain 2xl:object-cover 2xl:h-screen' 
        alt="" 
    />
 </div>
 <div className='absolute bottom-0 left-0 w-full overflow-hidden'>
    <img 
-       src="src/assets/images/Vector2.png" 
+       src="/images/Vector2.png" 
        className='w-full h-auto object-contain 2xl:object-cover 2xl:h-screen'
        alt="" 
    />  
 </div>
 <div className='absolute bottom-0 left-0 w-full overflow-hidden'>
    <img 
-       src="src/assets/images/Vector3.png" 
+       src="/images/Vector3.png" 
        className='w-full h-auto object-contain 2xl:object-cover 2xl:h-screen'
        alt="" 
    />

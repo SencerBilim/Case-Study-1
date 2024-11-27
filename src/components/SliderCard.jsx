@@ -10,8 +10,8 @@ const data = [
     name: "Helen Jummy",
     role: "Team Lead",
     description: "Non risus viverra enim, quis. Eget vitae arcu vivamus sit tellus, viverra turpis lorem. Varius a turpis urna id porttitor.",
-    image: "src/assets/images/avatar1.png",
-    logo: "src/assets/images/Logo-grey-1.png",
+    image: "/images/avatar1.png",
+    logo: "/images/Logo-grey-1.png",
   },
   {
     id: 2,
@@ -26,16 +26,16 @@ const data = [
     name: "David Oshodi",
     role: "Manager",
     description: "A eget sed posuere dui risus habitasse mauris. Venenatis aliquot id ultrices a lacus. Pretium vehicula pretium posuere justo sed.",
-    image: "src/assets/images/avatar3.png",
-    logo: "src/assets/images/Logo-grey-3.png",
+    image: "/images/avatar3.png",
+    logo: "/images/Logo-grey-3.png",
   },
   {
     id: 4,
     name: "Lisa Mali",
     role: "Designer",
     description: "Aliquet ridiculus mi porta habitant vulputate rhoncus, mattis amet enim. Sit purus venenatis velit semper lectus sed ornare quam nulla.",
-    image: "src/assets/images/avatar4.png",
-    logo: "src/assets/images/Logo-grey-2.png",
+    image: "/images/avatar4.png",
+    logo: "/images/Logo-grey-2.png",
   }
 ];
 

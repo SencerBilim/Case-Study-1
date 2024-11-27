@@ -41,7 +41,7 @@ const Join = () => {
       <div className="absolute top-[-60px] w-ful">
         <img
             draggable="false"
-          src="src/assets/images/Deco-video.png" 
+          src="/images/Deco-video.png" 
           alt="Desktop Thumbnail"
           className="w-full h-full object-cover scale-125"
         />
@@ -51,7 +51,7 @@ const Join = () => {
       <div className="relative w-full overflow-hidden  ">
         <img
             draggable="false"
-          src="src/assets/images/Desktop.png" 
+          src="/images/Desktop.png" 
           alt="Desktop Thumbnail"
           className="w-full h-full object-cover cursor-pointer shadow-custom-2 transition-all duration-300 hover:scale-105"
         />

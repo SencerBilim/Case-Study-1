@@ -12,12 +12,12 @@ const Map = () => {
     {/* Background */}
     <div className="absolute inset-0 overflow-hidden">
   <img
-    src="src/assets/images/chart.png"
+    src="/images/chart.png"
     alt=""
     className="hidden md:block w-full h-full object-contain"
   />
   <img
-    src="src/assets/images/chart-mobile.png"
+    src="/images/chart-mobile.png"
     alt=""
     className="md:hidden w-full h-full object-cover"
   />
@@ -38,7 +38,7 @@ const Map = () => {
   
     <div className="absolute top-[35%] left-1/2 md:top-1/3 md:left-24 2xl:left-72 z-10 transform -translate-x-1/2 md:-translate-x-0 -translate-y-1/2">
  <img
-   src="src/assets/images/col.png"
+   src="/images/col.png"
    alt=""
    className="w-[300px] sm:w-[200px] md:w-[250px]"
  />

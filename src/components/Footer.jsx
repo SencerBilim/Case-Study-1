@@ -50,8 +50,8 @@ const Footer = () => {
             <div className="flex flex-col items-center md:items-start">
               <h3 className="font-bold text-lg mb-6">Get the App</h3>
               <div className="space-y-4">
-                <img src="src/assets/images/app-store.png" alt="App Store" className="h-10 cursor-pointer" />
-                <img src="src/assets/images/google-play.png" alt="Google Play" className="h-10 cursor-pointer" />
+                <img src="/images/app-store.png" alt="App Store" className="h-10 cursor-pointer" />
+                <img src="/images/google-play.png" alt="Google Play" className="h-10 cursor-pointer" />
               </div>
    
               <div className="mt-12">
