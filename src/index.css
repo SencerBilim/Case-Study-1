@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+html, body, label {
+  font-family: 'Roboto';
+}
+
+.skip-ink-none {
+  text-decoration-skip-ink: none;
+}
+
+.slick-slide > div {
+  margin:0 10px;
+}
+
+.slick-slide {
+  padding: 0 12px;
+}
+
+.slick-list {
+  margin: 0 -12px;
+  padding: 8px 0 !important;
+}
+
+.slick-track {
+  display: flex !important;
+}
+
+.slick-slide > div {
+  height: 100%;
+}
