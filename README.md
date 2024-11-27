@@ -25,8 +25,10 @@ npm install
 npm run dev
 ```
 
-🖼️ Screenshot
-[Live Photo - Collers - sencer-bilim-case-study vercel app](https://github.com/user-attachments/assets/088d50a5-bce7-4797-ae69-f40474a596d7)
+### 🖼️ Screenshot  
+
+![Live Photo - Collers](https://github.com/user-attachments/assets/088d50a5-bce7-4797-ae69-f40474a596d7)
+
 
 
 📧 Contact!
