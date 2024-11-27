@@ -3,7 +3,7 @@ import './index.css';
 import Hero from "./components/Hero"
 import Section2 from './components/Section2';
 import Join from './components/Join';
-import Navbar from './components/NavBar';
+import Navbar from './components/Navbar';
 import SliderCard from './components/SliderCard';
 import Collections from './components/Collections';
 import Map from './components/Map';
