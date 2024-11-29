@@ -18,8 +18,8 @@ const data = [
     name: "Hellena John",
     role: "Co-founder",
     description: "Aliquet ridiculus mi porta habitant vulputate rhoncus, mattis amet enim. Sit purus venenatis velit semper lectus sed ornare quam nulla.",
-    image: "src/assets/images/avatar2.png",
-    logo: "src/assets/images/Logo-grey-2.png",
+    image: "/images/avatar2.png",
+    logo: "/images/Logo-grey-2.png",
   },
   {
     id: 3,
