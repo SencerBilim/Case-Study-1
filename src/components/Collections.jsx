@@ -10,7 +10,7 @@ import { GiSettingsKnobs } from 'react-icons/gi';
 const Collections = () => {
   return (
     <section className="relative w-full h-[900px] bg-light-yellow px-6 sm:px-12 md:px-20 py-20">
-      <div className="container p-5 relative z-10">
+      <div className="container 2xl:px-40 p-5 relative z-10">
         <div className="text-center lg:text-left">
           <h2 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-dark-blue leading-tight text-center sm:text-left mb-6">
             Grow your collection

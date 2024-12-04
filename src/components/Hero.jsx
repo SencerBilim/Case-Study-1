@@ -6,7 +6,7 @@ const Hero = () => {
    <div className="relative z-0">
      <section className="bg-gradient-to-br from-[#FFFAF0] from-60% via-[#FEF3C7] via-20% to-[#FEF3C7] to-100% relative">
        <div className="max-w-auto lg:pt-10 md:pt-10 sm:pt-0 px-6 sm:px-12 md:px-20">
-         <div className="flex flex-col 2xl:left-18 md:flex-row gap-8 relative z-10">
+         <div className="flex flex-col 2xl:px-32 md:flex-row gap-8 relative z-10">
            <div className="max-w-[800px] mt-16 relative z-20">
              <h1 className="text-5xl md:text-6xl font-extrabold text-dark-blue leading-tight text-center md:text-left">
                Collectible Sneakers
@@ -41,7 +41,7 @@ const Hero = () => {
        </div>
 
        <div className="flex justify-center  sm:justify-start">
-         <div className="grid md:px-11 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 pt-20 pb-14 px-6 text-center sm:text-left">
+         <div className="grid 2xl:px-40 md:px-11 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 pt-20 pb-14 px-6 text-center sm:text-left">
            <div className="flex flex-col items-center sm:items-start relative p-6 max-w-[500px]">
              <img src="/images/Rectangle1.png" className="absolute top-0 left-1/2 transform -translate-x-1/2 sm:translate-x-0 sm:left-10 w-11 h-11" />
              <div className="w-12 h-12 mb-4 relative z-10">
